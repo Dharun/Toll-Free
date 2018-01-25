@@ -2,8 +2,7 @@
 
 ### Industrial Mentor:
   **Mr. Vasanth** 
-  * *Software Engineer*
-  * *Python-Machine Learning(AI)*
+   *Python-Machine Learning(AI)*
 
 ### Faculty Mentor:
   **Mr.S.Rajasekaran** 
